@@ -161,3 +161,4 @@ cython_debug/
 
 # test deb files
 *.deb
+.ssh
